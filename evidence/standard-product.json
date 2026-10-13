@@ -1,0 +1,79 @@
+{
+  "case": {
+    "id": "standard-product",
+    "model": "gpt-image-2",
+    "kind": "generate",
+    "prompt": "Editorial product photograph of one unbranded cobalt-blue glass perfume bottle with a rounded rectangular body and an ivory sphere cap, placed on a warm travertine cube. Minimal cream studio, a small burnt-orange geometric accent, soft side lighting, tactile glass reflections and natural contact shadow. One fictional product, square composition, no label, no text, no logos, no watermark.",
+    "quote_usd": "0.015"
+  },
+  "upstream_repo": "wuyoscar/GPT-Image2-Skill",
+  "upstream_sha": "9f8aa1a44a4a5c0f5a5d6e45eed564b3e2d5b87f",
+  "date": "2026-10-13",
+  "task_id": "tsk_img_01M4T6B5RZ1BNRTGZA1MASASQE",
+  "status": "completed",
+  "request": {
+    "model": "gpt-image-2",
+    "prompt": "Editorial product photograph of one unbranded cobalt-blue glass perfume bottle with a rounded rectangular body and an ivory sphere cap, placed on a warm travertine cube. Minimal cream studio, a small burnt-orange geometric accent, soft side lighting, tactile glass reflections and natural contact shadow. One fictional product, square composition, no label, no text, no logos, no watermark.",
+    "n": 1,
+    "size": "1:1",
+    "resolution": "1K"
+  },
+  "observations": [
+    {
+      "status": "queued",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "completed",
+      "billing": null
+    }
+  ],
+  "billing": null,
+  "actual_cost_usd": "0.015",
+  "quote_usd": "0.015",
+  "pixels": [
+    1024,
+    1024
+  ],
+  "sha256": "89080086191327964e350ea3c15f048c423b518c06f767d757ef8167c1c6dd9a",
+  "elapsed_seconds": 45.83,
+  "entrypoint": "real upstream cli.main -> call_generate/call_edit -> ToAPIsClient -> original write_outputs",
+  "scope": "CLI only; no agent runtime, UI, video or masks tested",
+  "resumed_existing_task": false,
+  "elapsed_scope": "single CLI observation including polling and download; not a benchmark",
+  "actual_charge": {
+    "credits": "3",
+    "cost_usd": "0.015",
+    "usd_per_credit": "0.005",
+    "source": "Account owner confirmed 0.38 credits x3 VIP tasks and 3 credits x1 standard task in this chat on 2026-10-13; not an API settled-billing response",
+    "checkedDate": "2026-10-13",
+    "task_id": "tsk_img_01M4T6B5RZ1BNRTGZA1MASASQE",
+    "model": "gpt-image-2"
+  }
+}

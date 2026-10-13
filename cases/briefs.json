@@ -1,0 +1,27 @@
+[
+  {
+    "id": "vip-product",
+    "model": "gpt-image-2-vip",
+    "kind": "generate",
+    "prompt": "Editorial product photograph of one unbranded cobalt-blue glass perfume bottle with a rounded rectangular body and an ivory sphere cap, placed on a warm travertine cube. Minimal cream studio, a small burnt-orange geometric accent, soft side lighting, tactile glass reflections and natural contact shadow. One fictional product, square composition, no label, no text, no logos, no watermark."
+  },
+  {
+    "id": "vip-isometric",
+    "model": "gpt-image-2-vip",
+    "kind": "generate",
+    "prompt": "An elegant isometric 3D cutaway of a tiny reading corner: one terracotta armchair, a low walnut side table, a folded cream blanket, a few books and one green potted plant. Sculptural warm clay materials, soft morning shadows, isolated on an ivory background, calm editorial visual, square composition, no text, no logos, no watermark."
+  },
+  {
+    "id": "vip-reference-edit",
+    "model": "gpt-image-2-vip",
+    "kind": "edit",
+    "reference": "vip-product/result.png",
+    "prompt": "Keep the recognizable cobalt-blue rounded rectangular perfume bottle and ivory sphere cap from the reference. Move the product into a sunlit botanical studio on a walnut table, with soft fern shadows on a cream wall and a warm linen accent. One product, natural contact shadow, premium lifestyle photography, square composition, no label, no text, no logos. Preserve the recognizable blue bottle; details may vary."
+  },
+  {
+    "id": "standard-product",
+    "model": "gpt-image-2",
+    "kind": "generate",
+    "prompt": "Editorial product photograph of one unbranded cobalt-blue glass perfume bottle with a rounded rectangular body and an ivory sphere cap, placed on a warm travertine cube. Minimal cream studio, a small burnt-orange geometric accent, soft side lighting, tactile glass reflections and natural contact shadow. One fictional product, square composition, no label, no text, no logos, no watermark."
+  }
+]

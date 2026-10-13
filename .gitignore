@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+.toapis-state/
+private-state/
+results/
+.venv/
+__pycache__/
+*.pyc

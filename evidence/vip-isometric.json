@@ -1,0 +1,110 @@
+{
+  "case": {
+    "id": "vip-isometric",
+    "model": "gpt-image-2-vip",
+    "kind": "generate",
+    "prompt": "An elegant isometric 3D cutaway of a tiny reading corner: one terracotta armchair, a low walnut side table, a folded cream blanket, a few books and one green potted plant. Sculptural warm clay materials, soft morning shadows, isolated on an ivory background, calm editorial visual, square composition, no text, no logos, no watermark.",
+    "quote_usd": "0.0019"
+  },
+  "upstream_repo": "wuyoscar/GPT-Image2-Skill",
+  "upstream_sha": "9f8aa1a44a4a5c0f5a5d6e45eed564b3e2d5b87f",
+  "date": "2026-10-13",
+  "task_id": "tsk_img_01M4T66T1H9NA991JNXHAK1R6R",
+  "status": "completed",
+  "request": {
+    "model": "gpt-image-2-vip",
+    "prompt": "An elegant isometric 3D cutaway of a tiny reading corner: one terracotta armchair, a low walnut side table, a folded cream blanket, a few books and one green potted plant. Sculptural warm clay materials, soft morning shadows, isolated on an ivory background, calm editorial visual, square composition, no text, no logos, no watermark.",
+    "n": 1,
+    "size": "1:1",
+    "resolution": "1K",
+    "quality": "low"
+  },
+  "observations": [
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "in_progress",
+      "billing": {
+        "status": "pending"
+      }
+    },
+    {
+      "status": "completed",
+      "billing": null
+    }
+  ],
+  "billing": null,
+  "actual_cost_usd": "0.0019",
+  "quote_usd": "0.0019",
+  "pixels": [
+    1024,
+    1024
+  ],
+  "sha256": "90e4171cabe9c9ee3a107e56f9c94035b549c78fa43917668bbcfe5777d7bdea",
+  "elapsed_seconds": 82.69,
+  "entrypoint": "real upstream cli.main -> call_generate/call_edit -> ToAPIsClient -> original write_outputs",
+  "scope": "CLI only; no agent runtime, UI, video or masks tested",
+  "resumed_existing_task": false,
+  "elapsed_scope": "single CLI observation including polling and download; not a benchmark",
+  "actual_charge": {
+    "credits": "0.38",
+    "cost_usd": "0.0019",
+    "usd_per_credit": "0.005",
+    "source": "Account owner confirmed 0.38 credits x3 VIP tasks and 3 credits x1 standard task in this chat on 2026-10-13; not an API settled-billing response",
+    "checkedDate": "2026-10-13",
+    "task_id": "tsk_img_01M4T66T1H9NA991JNXHAK1R6R",
+    "model": "gpt-image-2-vip"
+  }
+}

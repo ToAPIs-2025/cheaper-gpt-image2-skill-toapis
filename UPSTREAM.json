@@ -1,0 +1,6 @@
+{
+  "repo": "wuyoscar/GPT-Image2-Skill",
+  "sha": "9f8aa1a44a4a5c0f5a5d6e45eed564b3e2d5b87f",
+  "license": "MIT",
+  "scope": "patched real CLI generation and reference edit; no agent runtime or gallery UI validation"
+}

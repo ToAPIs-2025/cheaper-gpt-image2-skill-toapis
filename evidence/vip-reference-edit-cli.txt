@@ -1,0 +1,2 @@
+Saved: assets/vip-reference-edit.png
+{"event": "submitted", "task_id": "tsk_img_01M4T69CFES5J792G79Z1G493R", "model": "gpt-image-2-vip"}

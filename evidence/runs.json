@@ -1,0 +1,377 @@
+[
+  {
+    "case": {
+      "id": "vip-product",
+      "model": "gpt-image-2-vip",
+      "kind": "generate",
+      "prompt": "Editorial product photograph of one unbranded cobalt-blue glass perfume bottle with a rounded rectangular body and an ivory sphere cap, placed on a warm travertine cube. Minimal cream studio, a small burnt-orange geometric accent, soft side lighting, tactile glass reflections and natural contact shadow. One fictional product, square composition, no label, no text, no logos, no watermark.",
+      "quote_usd": "0.0019"
+    },
+    "upstream_repo": "wuyoscar/GPT-Image2-Skill",
+    "upstream_sha": "9f8aa1a44a4a5c0f5a5d6e45eed564b3e2d5b87f",
+    "date": "2026-10-13",
+    "task_id": "tsk_img_01M4T6238EPSVZA34GQ1AEJ7K4",
+    "status": "completed",
+    "request": {
+      "model": "gpt-image-2-vip",
+      "prompt": "Editorial product photograph of one unbranded cobalt-blue glass perfume bottle with a rounded rectangular body and an ivory sphere cap, placed on a warm travertine cube. Minimal cream studio, a small burnt-orange geometric accent, soft side lighting, tactile glass reflections and natural contact shadow. One fictional product, square composition, no label, no text, no logos, no watermark.",
+      "n": 1,
+      "size": "1:1",
+      "resolution": "1K",
+      "quality": "low"
+    },
+    "observations": [
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "completed",
+        "billing": null
+      },
+      {
+        "status": "completed",
+        "billing": null
+      }
+    ],
+    "billing": null,
+    "actual_cost_usd": "0.0019",
+    "quote_usd": "0.0019",
+    "pixels": [
+      1024,
+      1024
+    ],
+    "sha256": "d2d79d3e35f7600df09910f87a89c4d5a4017ec57c0d64061652bb0b6b187569",
+    "elapsed_seconds": 0.98,
+    "entrypoint": "real upstream cli.main -> call_generate/call_edit -> ToAPIsClient -> original write_outputs",
+    "scope": "CLI only; no agent runtime, UI, video or masks tested",
+    "resumed_existing_task": true,
+    "elapsed_scope": "resume query/download/write only; original generation latency unavailable",
+    "actual_charge": {
+      "credits": "0.38",
+      "cost_usd": "0.0019",
+      "usd_per_credit": "0.005",
+      "source": "Account owner confirmed 0.38 credits x3 VIP tasks and 3 credits x1 standard task in this chat on 2026-10-13; not an API settled-billing response",
+      "checkedDate": "2026-10-13",
+      "task_id": "tsk_img_01M4T6238EPSVZA34GQ1AEJ7K4",
+      "model": "gpt-image-2-vip"
+    }
+  },
+  {
+    "case": {
+      "id": "vip-isometric",
+      "model": "gpt-image-2-vip",
+      "kind": "generate",
+      "prompt": "An elegant isometric 3D cutaway of a tiny reading corner: one terracotta armchair, a low walnut side table, a folded cream blanket, a few books and one green potted plant. Sculptural warm clay materials, soft morning shadows, isolated on an ivory background, calm editorial visual, square composition, no text, no logos, no watermark.",
+      "quote_usd": "0.0019"
+    },
+    "upstream_repo": "wuyoscar/GPT-Image2-Skill",
+    "upstream_sha": "9f8aa1a44a4a5c0f5a5d6e45eed564b3e2d5b87f",
+    "date": "2026-10-13",
+    "task_id": "tsk_img_01M4T66T1H9NA991JNXHAK1R6R",
+    "status": "completed",
+    "request": {
+      "model": "gpt-image-2-vip",
+      "prompt": "An elegant isometric 3D cutaway of a tiny reading corner: one terracotta armchair, a low walnut side table, a folded cream blanket, a few books and one green potted plant. Sculptural warm clay materials, soft morning shadows, isolated on an ivory background, calm editorial visual, square composition, no text, no logos, no watermark.",
+      "n": 1,
+      "size": "1:1",
+      "resolution": "1K",
+      "quality": "low"
+    },
+    "observations": [
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "completed",
+        "billing": null
+      }
+    ],
+    "billing": null,
+    "actual_cost_usd": "0.0019",
+    "quote_usd": "0.0019",
+    "pixels": [
+      1024,
+      1024
+    ],
+    "sha256": "90e4171cabe9c9ee3a107e56f9c94035b549c78fa43917668bbcfe5777d7bdea",
+    "elapsed_seconds": 82.69,
+    "entrypoint": "real upstream cli.main -> call_generate/call_edit -> ToAPIsClient -> original write_outputs",
+    "scope": "CLI only; no agent runtime, UI, video or masks tested",
+    "resumed_existing_task": false,
+    "elapsed_scope": "single CLI observation including polling and download; not a benchmark",
+    "actual_charge": {
+      "credits": "0.38",
+      "cost_usd": "0.0019",
+      "usd_per_credit": "0.005",
+      "source": "Account owner confirmed 0.38 credits x3 VIP tasks and 3 credits x1 standard task in this chat on 2026-10-13; not an API settled-billing response",
+      "checkedDate": "2026-10-13",
+      "task_id": "tsk_img_01M4T66T1H9NA991JNXHAK1R6R",
+      "model": "gpt-image-2-vip"
+    }
+  },
+  {
+    "case": {
+      "id": "vip-reference-edit",
+      "model": "gpt-image-2-vip",
+      "kind": "edit",
+      "reference": "vip-product/result.png",
+      "prompt": "Keep the recognizable cobalt-blue rounded rectangular perfume bottle and ivory sphere cap from the reference. Move the product into a sunlit botanical studio on a walnut table, with soft fern shadows on a cream wall and a warm linen accent. One product, natural contact shadow, premium lifestyle photography, square composition, no label, no text, no logos. Preserve the recognizable blue bottle; details may vary.",
+      "quote_usd": "0.0019"
+    },
+    "upstream_repo": "wuyoscar/GPT-Image2-Skill",
+    "upstream_sha": "9f8aa1a44a4a5c0f5a5d6e45eed564b3e2d5b87f",
+    "date": "2026-10-13",
+    "task_id": "tsk_img_01M4T69CFES5J792G79Z1G493R",
+    "status": "completed",
+    "request": {
+      "model": "gpt-image-2-vip",
+      "prompt": "Keep the recognizable cobalt-blue rounded rectangular perfume bottle and ivory sphere cap from the reference. Move the product into a sunlit botanical studio on a walnut table, with soft fern shadows on a cream wall and a warm linen accent. One product, natural contact shadow, premium lifestyle photography, square composition, no label, no text, no logos. Preserve the recognizable blue bottle; details may vary.",
+      "n": 1,
+      "size": "1:1",
+      "resolution": "1K",
+      "quality": "low",
+      "reference_images": [
+        "<uploaded URL omitted>"
+      ]
+    },
+    "observations": [
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "completed",
+        "billing": null
+      }
+    ],
+    "billing": null,
+    "actual_cost_usd": "0.0019",
+    "quote_usd": "0.0019",
+    "pixels": [
+      1024,
+      1024
+    ],
+    "sha256": "fb7912b2c2a6a0be0db0b8657ad3f0ef8b5719c2f794a81662f7314b89e246f7",
+    "elapsed_seconds": 60.28,
+    "entrypoint": "real upstream cli.main -> call_generate/call_edit -> ToAPIsClient -> original write_outputs",
+    "scope": "CLI only; no agent runtime, UI, video or masks tested",
+    "resumed_existing_task": false,
+    "elapsed_scope": "single CLI observation including polling and download; not a benchmark",
+    "actual_charge": {
+      "credits": "0.38",
+      "cost_usd": "0.0019",
+      "usd_per_credit": "0.005",
+      "source": "Account owner confirmed 0.38 credits x3 VIP tasks and 3 credits x1 standard task in this chat on 2026-10-13; not an API settled-billing response",
+      "checkedDate": "2026-10-13",
+      "task_id": "tsk_img_01M4T69CFES5J792G79Z1G493R",
+      "model": "gpt-image-2-vip"
+    }
+  },
+  {
+    "case": {
+      "id": "standard-product",
+      "model": "gpt-image-2",
+      "kind": "generate",
+      "prompt": "Editorial product photograph of one unbranded cobalt-blue glass perfume bottle with a rounded rectangular body and an ivory sphere cap, placed on a warm travertine cube. Minimal cream studio, a small burnt-orange geometric accent, soft side lighting, tactile glass reflections and natural contact shadow. One fictional product, square composition, no label, no text, no logos, no watermark.",
+      "quote_usd": "0.015"
+    },
+    "upstream_repo": "wuyoscar/GPT-Image2-Skill",
+    "upstream_sha": "9f8aa1a44a4a5c0f5a5d6e45eed564b3e2d5b87f",
+    "date": "2026-10-13",
+    "task_id": "tsk_img_01M4T6B5RZ1BNRTGZA1MASASQE",
+    "status": "completed",
+    "request": {
+      "model": "gpt-image-2",
+      "prompt": "Editorial product photograph of one unbranded cobalt-blue glass perfume bottle with a rounded rectangular body and an ivory sphere cap, placed on a warm travertine cube. Minimal cream studio, a small burnt-orange geometric accent, soft side lighting, tactile glass reflections and natural contact shadow. One fictional product, square composition, no label, no text, no logos, no watermark.",
+      "n": 1,
+      "size": "1:1",
+      "resolution": "1K"
+    },
+    "observations": [
+      {
+        "status": "queued",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "completed",
+        "billing": null
+      }
+    ],
+    "billing": null,
+    "actual_cost_usd": "0.015",
+    "quote_usd": "0.015",
+    "pixels": [
+      1024,
+      1024
+    ],
+    "sha256": "89080086191327964e350ea3c15f048c423b518c06f767d757ef8167c1c6dd9a",
+    "elapsed_seconds": 45.83,
+    "entrypoint": "real upstream cli.main -> call_generate/call_edit -> ToAPIsClient -> original write_outputs",
+    "scope": "CLI only; no agent runtime, UI, video or masks tested",
+    "resumed_existing_task": false,
+    "elapsed_scope": "single CLI observation including polling and download; not a benchmark",
+    "actual_charge": {
+      "credits": "3",
+      "cost_usd": "0.015",
+      "usd_per_credit": "0.005",
+      "source": "Account owner confirmed 0.38 credits x3 VIP tasks and 3 credits x1 standard task in this chat on 2026-10-13; not an API settled-billing response",
+      "checkedDate": "2026-10-13",
+      "task_id": "tsk_img_01M4T6B5RZ1BNRTGZA1MASASQE",
+      "model": "gpt-image-2"
+    }
+  }
+]

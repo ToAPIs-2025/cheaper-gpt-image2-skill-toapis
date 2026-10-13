@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-13",
+  "rows": [
+    {
+      "case": "vip-product",
+      "task_id": "tsk_img_01M4T6238EPSVZA34GQ1AEJ7K4",
+      "model": "gpt-image-2-vip",
+      "quote_usd": "0.0019",
+      "actual_cost_usd": "0.0019",
+      "actual_charge": {
+        "credits": "0.38",
+        "cost_usd": "0.0019",
+        "usd_per_credit": "0.005",
+        "source": "Account owner confirmed 0.38 credits x3 VIP tasks and 3 credits x1 standard task in this chat on 2026-10-13; not an API settled-billing response",
+        "checkedDate": "2026-10-13",
+        "task_id": "tsk_img_01M4T6238EPSVZA34GQ1AEJ7K4",
+        "model": "gpt-image-2-vip"
+      },
+      "api_billing": null
+    },
+    {
+      "case": "vip-isometric",
+      "task_id": "tsk_img_01M4T66T1H9NA991JNXHAK1R6R",
+      "model": "gpt-image-2-vip",
+      "quote_usd": "0.0019",
+      "actual_cost_usd": "0.0019",
+      "actual_charge": {
+        "credits": "0.38",
+        "cost_usd": "0.0019",
+        "usd_per_credit": "0.005",
+        "source": "Account owner confirmed 0.38 credits x3 VIP tasks and 3 credits x1 standard task in this chat on 2026-10-13; not an API settled-billing response",
+        "checkedDate": "2026-10-13",
+        "task_id": "tsk_img_01M4T66T1H9NA991JNXHAK1R6R",
+        "model": "gpt-image-2-vip"
+      },
+      "api_billing": null
+    },
+    {
+      "case": "vip-reference-edit",
+      "task_id": "tsk_img_01M4T69CFES5J792G79Z1G493R",
+      "model": "gpt-image-2-vip",
+      "quote_usd": "0.0019",
+      "actual_cost_usd": "0.0019",
+      "actual_charge": {
+        "credits": "0.38",
+        "cost_usd": "0.0019",
+        "usd_per_credit": "0.005",
+        "source": "Account owner confirmed 0.38 credits x3 VIP tasks and 3 credits x1 standard task in this chat on 2026-10-13; not an API settled-billing response",
+        "checkedDate": "2026-10-13",
+        "task_id": "tsk_img_01M4T69CFES5J792G79Z1G493R",
+        "model": "gpt-image-2-vip"
+      },
+      "api_billing": null
+    },
+    {
+      "case": "standard-product",
+      "task_id": "tsk_img_01M4T6B5RZ1BNRTGZA1MASASQE",
+      "model": "gpt-image-2",
+      "quote_usd": "0.015",
+      "actual_cost_usd": "0.015",
+      "actual_charge": {
+        "credits": "3",
+        "cost_usd": "0.015",
+        "usd_per_credit": "0.005",
+        "source": "Account owner confirmed 0.38 credits x3 VIP tasks and 3 credits x1 standard task in this chat on 2026-10-13; not an API settled-billing response",
+        "checkedDate": "2026-10-13",
+        "task_id": "tsk_img_01M4T6B5RZ1BNRTGZA1MASASQE",
+        "model": "gpt-image-2"
+      },
+      "api_billing": null
+    }
+  ],
+  "estimated_usd": "0.0207",
+  "actual_total_usd": "0.0207",
+  "actual_status": "confirmed",
+  "conversion_note": "1 credit = USD 0.005, previously confirmed by account owner; apply only to real credit records"
+}
